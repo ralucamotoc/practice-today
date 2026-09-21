@@ -52,3 +52,10 @@ Sample Server Response
   "status": "success",
   "code": 200
 }
+```
+
+| Endpoint | Method | Description |
+| :--- | :--- | :--- |
+| `/v1/users` | GET | Retrieve all users |
+| `/v1/users` | POST | Create a new user |
+| `/v1/users` | DELETE | Remove a user |
