@@ -59,3 +59,10 @@ Sample Server Response
 | `/v1/users` | GET | Retrieve all users |
 | `/v1/users` | POST | Create a new user |
 | `/v1/users` | DELETE | Remove a user |
+
+## Deployment Checklist
+
+- [x] Update API documentation
+- [x] Run security audit
+- [ ] Push to production server
+
