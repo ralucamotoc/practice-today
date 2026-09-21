@@ -34,3 +34,21 @@ Multi-line code block:
 1. **The Top Line:** You type three backticks (` ``` `) right next to the word `json`. This tells VCode, *Hey, color-code this text as JSON.*
 2. **The Middle:** You press **Enter** to go to a new line, and type your actual"data.
 3. **The Bottom Line:** You press **Enter** again and type three more backticks (` ``` `) on their own line to close the block.
+
+
+# API Reference Overview
+Welcome to the **Developer Portal**. This guide covers our core services.
+> **Note**: Authentication keys must be renewed every 90 days.
+
+Available Endpoints:
+- GET /v1/users
+- POST /v1/users
+- DELETE /v1/users
+
+Sample Server Response
+
+```json
+{
+  "status": "success",
+  "code": 200
+}
