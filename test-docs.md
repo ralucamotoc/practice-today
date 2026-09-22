@@ -83,7 +83,7 @@ Sample Server Response
 
 Check out the official [VS Code Documentation](https://code.visualstudio.com/docs) for more keybindings.
 
-Example Configuration
+Example configuration
 
 ``` json
 {
