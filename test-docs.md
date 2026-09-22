@@ -93,4 +93,5 @@ Example configuration
 ``` 
 ---
 
-Next Steps
+Next steps
+> **Brief Note**: This is a brief note.
