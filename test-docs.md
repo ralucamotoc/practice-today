@@ -66,3 +66,13 @@ Sample Server Response
 - [x] Run security audit
 - [ ] Push to production server
 
+# Server Migration Plan
+> **Important:** Schedule a 30-minute maintenance window before starting.
+
+| Service | Target Date | Risk Level |
+| :--- | :--- | :--- |
+| Authentication API | Oct 12 | High |
+| Billing Portal | Oct 15 | Medium |
+
+- [x] Notify engineering team
+- [ ] Take database snapshot
