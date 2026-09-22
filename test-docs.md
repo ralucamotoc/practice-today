@@ -81,7 +81,7 @@ Sample Server Response
 
 # Useful Resources
 
-Check out the official [VS Code Documentation]([https://code.visualstudio.com/docs](https://code.visualstudio.com/docs)) for more keybindings.
+Check out the official [VS Code Documentation](https://code.visualstudio.com/docs) for more keybindings.
 
 Example Configuration
 
