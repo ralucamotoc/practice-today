@@ -76,3 +76,21 @@ Sample Server Response
 
 - [x] Notify engineering team
 - [ ] Take database snapshot
+
+
+
+# Useful Resources
+
+Check out the official [VS Code Documentation]([https://code.visualstudio.com/docs](https://code.visualstudio.com/docs)) for more keybindings.
+
+Example Configuration
+
+``` json
+{
+  "editor.wordWrap": "on",
+  "files.autoSave": "afterDelay"
+}
+``` 
+---
+
+Next Steps
