@@ -24,6 +24,8 @@ git push
 | Production | [Production example](https://app.example.com) | Active |
 | Staging | [Staging example](https://stage.example.com) | Testing |
 
+*Note: Table alignment styling added on feature branch.*
+
 - [x] Run integration tests
 - [ ] Deploy to staging cluster
 
